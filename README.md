@@ -1,5 +1,5 @@
 # Counter
-- [Demo Project](https://amirreza-rashvand-developer.github.io/Responsive-Popup-Modal/)
+- [Demo Project](https://amirreza-rashvand-developer.github.io/Counter/)
 
 - Developed by amirreza rashvand
 
